@@ -12,3 +12,12 @@ Linear Algebra and Probability
 - [Stanford CS109 Introduction to Probability for Computer](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) | [CS109 Website 2022](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/handouts/syllabus.html#problem-sets)
 - [Probability Theory and Stochastic Processes](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/) | [YouTube](https://www.youtube.com/@toddkemp-probability/playlists)
 - [Probability Theory](https://www.youtube.com/@theprobabilitychannel-prof8089/playlists)
+
+# ML
+- [Mathematics for Machine Learning -- 2020/2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+- [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+- [Probabilistic Machine Learning — Philipp Hennig, 2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+- [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+- [Numerics of Machine Learning (Winter 2022/23)](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+- [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
+- [CS769 Optimization in Machine Learning IIT Bombay 2024](https://www.youtube.com/playlist?list=PLyo3HAXSZD3yhIPf7Luk_ZHM_ss2fFCVV) | [Website](https://www.cse.iitb.ac.in/~ganesh/cs769/)
