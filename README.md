@@ -29,6 +29,8 @@ Linear Algebra and Probability
 - [First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
 - [CAP5516 – Spring 2023 Medical Image Computing](https://www.crcv.ucf.edu/courses/cap5516-spring-2023/) | [Youtube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkrRa_MTEsSVWc0zxHbjx9z)
 - [Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
+- [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5)
+- [Machine Learning for visual understanding](http://viplab.snu.ac.kr/viplab/courses/mlvu_online_2021/index.html)
 
 # Optimization in ML
 - [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
