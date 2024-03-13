@@ -23,6 +23,7 @@ Linear Algebra and Probability
 - [Benyamin Ghojogh Teaching](https://bghojogh.github.io/teaching/) | [Benyamin Ghojogh Youtube](https://www.youtube.com/@bghojogh/playlists)
 
 # Computer Vision
+- [Basics](https://farid.berkeley.edu/learnComputerVision/)
 - [Introduction to Deep Learning (I2DL) (IN2346)](https://niessner.github.io/I2DL/)
 - [CAP5415 – Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2023/)
 - [First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
