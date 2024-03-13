@@ -20,6 +20,7 @@ Linear Algebra and Probability
 - [Probabilistic Machine Learning — Philipp Hennig, 2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 - [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 - [Numerics of Machine Learning (Winter 2022/23)](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+- [Benyamin Ghojogh Teaching](https://bghojogh.github.io/teaching/) | [Benyamin Ghojogh Youtube](https://www.youtube.com/@bghojogh/playlists)
 
 # Optimization in ML
 - [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
