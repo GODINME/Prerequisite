@@ -22,17 +22,6 @@ Linear Algebra and Probability
 - [Numerics of Machine Learning (Winter 2022/23)](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
 - [Benyamin Ghojogh Teaching](https://bghojogh.github.io/teaching/) | [Benyamin Ghojogh Youtube](https://www.youtube.com/@bghojogh/playlists)
 
-# Computer Vision
-- [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/schedule.html)
-- [Basics](https://farid.berkeley.edu/learnComputerVision/)
-- [Introduction to Deep Learning (I2DL) (IN2346)](https://niessner.github.io/I2DL/)
-- [CAP5415 – Computer Vision](https://www.crcv.ucf.edu/courses/cap5415-fall-2023/)
-- [First Principles of Computer Vision](https://fpcv.cs.columbia.edu/)
-- [CAP5516 – Spring 2023 Medical Image Computing](https://www.crcv.ucf.edu/courses/cap5516-spring-2023/) | [Youtube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkrRa_MTEsSVWc0zxHbjx9z)
-- [Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
-- [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5)
-- [Machine Learning for visual understanding](http://viplab.snu.ac.kr/viplab/courses/mlvu_online_2021/index.html)
-
 # Optimization in ML
 - [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
 - [CS769 Optimization in Machine Learning IIT Bombay 2024](https://www.youtube.com/playlist?list=PLyo3HAXSZD3yhIPf7Luk_ZHM_ss2fFCVV) | [Website](https://www.cse.iitb.ac.in/~ganesh/cs769/)
