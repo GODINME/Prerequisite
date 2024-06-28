@@ -1,5 +1,5 @@
 # Prerequisite
-Linear Algebra and Probability
+
 # Linear Algebra
 - [General Mathematics](https://www.youtube.com/playlist?list=PLVud-bSBOEpwTawKgB36JoQxrc7KCrPe0)
 - [Math for Intelligent Systems](https://www.youtube.com/playlist?list=PLG_JdDnkEdEHRlZCrjeTFaJ4qTWRZRx0O) | [Website](https://sites.google.com/site/jimmainprice/math-for-intelligent-systems?authuser=0)
@@ -7,6 +7,22 @@ Linear Algebra and Probability
 - [Nathaniel Johnston](https://www.youtube.com/@NathanielJohnst/playlists)
 - [Prof Won Math](https://www.youtube.com/@ProfWonMath/playlists)
 - [Matrix Calculus For Machine Learning And Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/)
+
+# Statistics
+- [JSB UCLA](https://www.youtube.com/@JSBUCLA/playlists)
+- [A Probability Space](https://www.youtube.com/@AProbabilitySpace/playlists)
+- [Stephen Carden](https://www.youtube.com/@stephencarden3717/playlists)
+- [Elementary Statistics](https://www.youtube.com/playlist?list=PLN0Lwj3GoWZX5wxLWXuegCfvfDKo238aN)
+- [STA2023 Lectures](https://www.youtube.com/playlist?list=PLylRpEZPGoM427uxB0Q0WDSVSkaXs0GXE)
+- [Dr. Hoover](https://www.youtube.com/@dr.hoover345/playlists)
+- [Professor eM](https://www.youtube.com/@professorem2806/playlists)
+- [Bill Kinney](https://www.youtube.com/@billkinneymath/playlists)
+- [Linera Regression](https://www.youtube.com/playlist?list=PLihAo9lMOHoA_ZPvoeP7MN9HfnvRKIJx4)
+- [Biostatistics](https://www.youtube.com/playlist?list=PLi7GKP9W2qzfd9kHpT3WrW1WF9h0yHFoK)
+- [Andrew Ainsworth](https://www.youtube.com/@andrewainsworth3985/playlists)
+- [Jingchen](https://www.youtube.com/@JingchenMonikaHu/playlists)
+- [Kaustubh Chakraborty](https://www.youtube.com/@Songvbm/playlists)
+- []()
 
 # Probability
 - [Probability Bites](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BXkeKW4J_2WQBlYhKs_k-pj)
