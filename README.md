@@ -22,7 +22,8 @@
 - [Andrew Ainsworth](https://www.youtube.com/@andrewainsworth3985/playlists)
 - [Jingchen](https://www.youtube.com/@JingchenMonikaHu/playlists)
 - [Kaustubh Chakraborty](https://www.youtube.com/@Songvbm/playlists)
-- []()
+- [Miles Chen](https://www.youtube.com/@smileschen/playlists)
+- [ilyoup](https://www.youtube.com/@ilyoup/playlists)
 
 # Probability
 - [Probability Bites](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BXkeKW4J_2WQBlYhKs_k-pj)
