@@ -39,7 +39,4 @@
 - [Numerics of Machine Learning (Winter 2022/23)](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
 - [Benyamin Ghojogh Teaching](https://bghojogh.github.io/teaching/) | [Benyamin Ghojogh Youtube](https://www.youtube.com/@bghojogh/playlists)
 
-# Optimization in ML
-- [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
-- [CS769 Optimization in Machine Learning IIT Bombay 2024](https://www.youtube.com/playlist?list=PLyo3HAXSZD3yhIPf7Luk_ZHM_ss2fFCVV) | [Website](https://www.cse.iitb.ac.in/~ganesh/cs769/)
-- [ELE539/COS512: Optimization for Machine Learning](https://sites.google.com/view/cjin/teaching/ece539cos512-2021-ver?authuser=0)
+
